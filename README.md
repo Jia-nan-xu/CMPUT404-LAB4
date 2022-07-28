@@ -1,2 +1,2 @@
 # CMPUT404-LAB4
-this is the CMPUT 404 LAB4
+This is the CMPT 404 LAB4
